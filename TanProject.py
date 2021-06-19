@@ -1,4 +1,4 @@
-#kartha karma kriya : @thanishque_jangam
+
 import random
 import string
 def lower_alphabets():
